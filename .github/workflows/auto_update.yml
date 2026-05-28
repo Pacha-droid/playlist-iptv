@@ -29,4 +29,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add playlist.m3u
           git diff --quiet && git diff --staged --quiet || git commit -m "Mise à jour automatique de la playlist"
-          git push origin principal
+          git push origin main
+

@@ -219,7 +219,7 @@ https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
 http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr@SD" tvg-logo="https://i.imgur.com/7GVp3fW.png" group-title="Entertainment",M6 SD (1080p)
 https://n-5-2.eu.cdn-redge.media/livehls/oeu/mt/live/m6_fr/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="M6Music.fr@SD" tvg-logo="" group-title="Music",M6 Music (1080p)
+#EXTINF:-1 tvg-id="M6Music.fr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/M6music-95cde0867d.svg/revision/latest?cb=20200412210630" group-title="Music",M6 Music (1080p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Mangas.fr@SD" tvg-logo="https://i.imgur.com/wmmEOza.png" group-title="Animation",Mangas (720p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mangas/live.livx/playlist.m3u8
@@ -469,6 +469,8 @@ https://live.creacast.com/cna/stream/playlist.m3u8
 https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
 #EXTINF:-1 tvg-id="ElwataniaTV.dz@SD" tvg-logo="https://i.imgur.com/NKR8WFq.png" group-title="General",Elwatania TV (1080i)
 https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8
+#EXTINF:-1 tvg-id="QudsunaTV.ps@HD" tvg-logo="https://drive.google.com/file/d/1LEl-AhX5HZmP05kfBk4fwSmtJyPjVT3x/view?usp=drive_link" group-title="General",Qudsuna TV (1080i)
+https://qudsunatv-live.cdnnew.com/qudsunatv/qudsuna.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.ma@SD" tvg-logo="https://i.imgur.com/ZBV6xph.png" group-title="Culture",StoryChannel TV (720p)
 https://136044159.r.cdnsun.net/storychannel.m3u8
 #EXTINF:-1 tvg-id="TV2.dz@SD" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="General",TV2 (Algeria) (1080p)
